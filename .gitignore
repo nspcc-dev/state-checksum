@@ -1,0 +1,22 @@
+vendor/
+
+# text editors
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# goland
+.idea/*
+# emacs
+*~
+TAGS
+
+# patch
+*.orig
+*.rej
+
+# Coverage
+coverage.txt
+coverage.html
